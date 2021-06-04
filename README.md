@@ -24,10 +24,10 @@ Na criação de um classificado, o Título e a Descrição são obrigatórios e 
 
 
 ## Recomendações
-- Capriche na qualidade e organização do código: Esse é o principal ponto que analisamos;
+- Capriche na qualidade e organização do código. Recomendamos que você estruture sua solução em camadas e faça uso de padrões e princípios de desenvolvimento: **Esse é o principal ponto que analisamos;**
 - Comece o quanto antes: Não deixe para fazer próximo a data de entrega, isso pode te atrapalhar;
 - Visual é importante: Uma aplicação com um bom design te diferencia dos demais. Você pode usar libs de UI (antd/material ui/bootstrap/etc.) para melhorar o visual da sua aplicação;
-- Faça o uso de React Redux (com Thunk ou Saga) para fazer a gestão do estado global. Isso será um **GRANDE** diferencial no seu desafio;
+- Faça o uso de React Redux (com Thunk ou Saga) para fazer a gestão do estado global. Isso será um **grande diferencial** no seu desafio;
 - Para facilitar o entendimento criamos o <del>protótipo</del> abaixo:
 <img src="https://user-images.githubusercontent.com/7651244/105104880-7a12bd80-5a89-11eb-9ba0-71a7a621607b.png" height="300"/>
  
